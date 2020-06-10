@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on Jia-Rong Guan</title>
+    <link>https://guangaunnnnn.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on Jia-Rong Guan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://guangaunnnnn.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown語法</title>
+      <link>https://guangaunnnnn.github.io/blog/test/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/test/</guid>
+      <description>Markdown語法
+1.內文
+需要空格一行
+2.標題
+一級標題 二級標題 六級標題 3.粗體 4.斜體
+5.有序序列(會自動計算)</description>
+    </item>
+    
+  </channel>
+</rss>

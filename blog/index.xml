@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jia-Rong Guan</title>
+    <link>https://guangaunnnnn.github.io/blog/</link>
+    <description>Recent content in Blogs on Jia-Rong Guan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://guangaunnnnn.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://guangaunnnnn.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Markdown語法</title>
+      <link>https://guangaunnnnn.github.io/blog/test/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0800</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/test/</guid>
+      <description>Markdown語法
+1.內文
+需要空格一行
+2.標題
+一級標題 二級標題 六級標題 3.粗體 4.斜體
+5.有序序列(會自動計算)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://guangaunnnnn.github.io/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://guangaunnnnn.github.io/blog/test2/</guid>
+      <description>一級標題 Hello World! </description>
+    </item>
+    
+  </channel>
+</rss>
